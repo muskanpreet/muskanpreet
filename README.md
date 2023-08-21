@@ -10,11 +10,11 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m currently working on Web Development.
+- :telescope: I’m currently working on Blockchain Development.
 
-- :seedling: Exploring Python .
+- :seedling: Exploring Backend.
 
-- :zap: I’m looking for an Internship oppurnity.
+- :zap: I’m looking for an placement oppurnity.
 
 ---
 
