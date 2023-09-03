@@ -14,7 +14,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Backend.
 
-- :zap: I’m looking for an placement oppurnity.
+- :zap: I’m looking for placement oppurnities.
 
 ---
 
